@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @keshav1207
-- 👀 My goal is to become a self taught developper. I started my programming journey in April 2022.
+- I started my programming journey in April 2022.
+- 👀 My goal is to become a self taught developper. 
 - 🌱 I’m currently learning python.
 
 <!---
