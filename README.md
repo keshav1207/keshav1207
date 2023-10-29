@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Keshav. Im from Mauritius but currrently living in Melbourne, Australia.
-- I started my programming journey in April 2022.
-- 👀 My goal is to become a  self taught software developer. 
-- 🌱 I learned the basics of  Java through the MOOC course & I'm currently focusing on building basic games like pong, snake and tic tac toe. 
-- 🌱  In addition , I’m currently learning  html/css/javascript through the odin project.
+- 👋 Hi there,
+  I’m Keshav, a coding enthusiast 🧑‍💻  mainly interested in web and software development.
+  
+  I'm originally from Mauritius 🦤 and currently living in Toronto 🍁.
+
+  I started learning how to code as a hobby in  May 2022 while working as an Accountant before developing a passion for it and deciding to switch to the tech industry.
+
+  I'm currently focusing on developing full stack applications using the MERN stack.
+  
+  
+
 
 <!---
 keshav1207/keshav1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
