@@ -1,5 +1,5 @@
 - 👋 Hi there,
--  I’m Keshav😁 , a coding enthusiast 🧑‍💻  mainly interested in web and software development.
+-  I’m Keshav 😁 , a coding enthusiast 🧑‍💻  mainly interested in web and software development.
   
 -  I'm originally from Mauritius 🦤 and currently living in Toronto 🍁.
 
