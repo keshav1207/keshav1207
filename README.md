@@ -5,7 +5,7 @@
 
 -  I started learning how to code as a hobby in May 2022 while working as an Accountant before developing a passion for it and deciding to switch to the tech industry.
 
--  I'm currently focusing on developing full stack applications using the MERN stack.
+
   
   
 
