@@ -3,7 +3,7 @@
   
 -  I'm originally from Mauritius 🦤 and currently living in Toronto 🍁.
 
--  I started learning how to code as a hobby in May 2022 while working as an Accountant before developing a passion for it and deciding to switch to the tech industry.
+-  I started learning how to code as a hobby in May 2022 while working as an Junior Accountant in Melbourne, Australia before developing a passion for it and deciding to switch to the tech industry.
 
 
   
