@@ -1,7 +1,7 @@
 - 👋 Hi there,
 -  I’m Keshav 😁 , a coding enthusiast 🧑‍💻  mainly interested in web and software development.
   
--  I'm originally from Mauritius 🦤 and currently living in Toronto 🍁.
+-  I'm originally from Mauritius(L'Île Maurice) 🦤 and currently living in Toronto 🍁.
 
 -  I started learning how to code as a hobby in May 2022 while working as an  Accountant in Melbourne, Australia before developing a passion for it and deciding to switch to the tech industry.
 
