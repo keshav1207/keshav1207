@@ -35,4 +35,4 @@ Worked on enterprise web applications using C#/.NET, improved API testing covera
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/keshav0799/)) • [Portfolio](https://kcallychurn.netlify.app/)) • [Email](mailto:keshav0799@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/keshav0799/) • [Portfolio](https://kcallychurn.netlify.app/) • [Email](mailto:keshav0799@gmail.com)
