@@ -23,19 +23,6 @@ Originally from Mauritius 🇲🇺, I started my career in accounting and financ
 **Testing:** JUnit 5, Mockito, PyTest, xUnit, Jest, React Testing Library
 **Auth & Security:** Keycloak, OAuth2, JWT
 
-## 🚀 Featured Projects
-
-### [RememberBirthdays]
-Full-stack birthday manager with OAuth2 authentication and automated email reminders, deployed to AWS with Terraform and monitored with Prometheus and Grafana. 34 unit and integration tests across backend and frontend.
-**Tech:** Java 21, Spring Boot, PostgreSQL, Keycloak, React, TypeScript, Docker, AWS, Terraform
-
-### [FinanceTracker]
-Layered REST API for personal finance tracking with the repository pattern, DTOs, and EF Core migrations, unit tested with xUnit and Moq.
-**Tech:** C#, ASP.NET Core, Entity Framework Core, SQLite
-
-### [UFC Store]
-MERN e-commerce platform with JWT authentication, admin product management, and Stripe payments.
-**Tech:** React, Node.js, Express, MongoDB, Stripe
 
 ## 💼 Experience
 
