@@ -1,37 +1,53 @@
 # Hi, I'm Keshav 👋
 
-Backend-focused Software Engineer based in Toronto, Canada 🇨🇦 with experience building scalable web applications and production-ready systems using Java (Spring Boot), C#.NET, and modern cloud technologies.
+Software engineer in Toronto 🇨🇦 building **reliable AI and LLM applications** on a strong backend foundation: Java (Spring Boot), C#/.NET, and Python.
 
-Originally from Mauritius 🇲🇺, I transitioned into software engineering after starting my career in accounting and finance. I’m currently focused on backend development, cloud technologies, and building full-stack applications.
+Originally from Mauritius 🇲🇺, I started my career in accounting and finance before moving into software. I speak both languages, finance and code, and I'm focused on building AI systems that are tested, measured, and production-ready, especially for financial services.
+
+
+## 🤖 AI Experience
+
+- Wrote **PyTest** suites for the API behind a **Retrieval-Augmented Generation (RAG) pipeline** at the Ontario Public Service, validating prompt templates and responses
+- Raised API test coverage from **50% to 80%**
+- Currently learning: RAG evaluation, tool calling & agents, MCP, Spring AI
 
 ## 💻 Tech Stack
 
-**Backend:** Java, Spring Boot, C#, .NET, Node.js, Express  
-**Frontend:** React, TypeScript, JavaScript, HTML, CSS  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Cloud & DevOps:** Docker, Azure DevOps, Git, CI/CD  
+**Languages:** Java, C#, Python, TypeScript, JavaScript
+**AI / LLM:** RAG, prompt engineering, embeddings, LLM evaluation
+**Backend:** Spring Boot, .NET, ASP.NET Core, FastAPI, Node.js, Express
+**Frontend:** React, TypeScript, HTML, CSS
+**Databases:** PostgreSQL, MySQL, MongoDB, SQL Server, SQLite
+**Cloud & DevOps:** AWS, Azure DevOps, Docker, Terraform, GitHub Actions
+**Observability:** Prometheus, Grafana
+**Testing:** JUnit 5, Mockito, PyTest, xUnit, Jest, React Testing Library
 **Auth & Security:** Keycloak, OAuth2, JWT
 
 ## 🚀 Featured Projects
 
-### RememberBirthdays
-Full-stack birthday management app with secure authentication and automated email reminders.  
-**Tech:** Spring Boot, PostgreSQL, Keycloak, React, Docker
+### [RememberBirthdays]
+Full-stack birthday manager with OAuth2 authentication and automated email reminders, deployed to AWS with Terraform and monitored with Prometheus and Grafana. 34 unit and integration tests across backend and frontend.
+**Tech:** Java 21, Spring Boot, PostgreSQL, Keycloak, React, TypeScript, Docker, AWS, Terraform
 
-### UFC Store
-MERN e-commerce platform with JWT authentication and Stripe payments.  
+### [FinanceTracker]
+Layered REST API for personal finance tracking with the repository pattern, DTOs, and EF Core migrations, unit tested with xUnit and Moq.
+**Tech:** C#, ASP.NET Core, Entity Framework Core, SQLite
+
+### [UFC Store]
+MERN e-commerce platform with JWT authentication, admin product management, and Stripe payments.
 **Tech:** React, Node.js, Express, MongoDB, Stripe
 
 ## 💼 Experience
 
-**Software Developer Co-op @ Ontario Public Service**  
-Worked on enterprise web applications using C#/.NET, improved API testing coverage, and built CI/CD pipelines with Azure DevOps.
+**Software Developer Co-op @ Ontario Public Service** (Sep 2025 – May 2026)
+- Built full-stack C#/.NET features used by three internal business teams
+- Tested API endpoints for a RAG pipeline with PyTest, raising coverage from 50% to 80%
+- Built Azure DevOps CI/CD pipelines, cutting deployments from 2–3 hours to under 15 minutes
 
-## 🏆 Certifications
+## 📜 Certifications
 
-- AWS Certified Cloud Practitioner
-- Microsoft Azure Fundamentals (AZ-900)
-- ISTQB Foundation Level
+AWS Certified Cloud Practitioner · Microsoft Azure Fundamentals (AZ-900) · ISTQB Foundation Level
+
 
 ## 📫 Connect
 
